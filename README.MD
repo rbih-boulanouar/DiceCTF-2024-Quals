@@ -4,6 +4,6 @@ DiceCTF 2024 Quals on Feb 2 writeups
 
 #WEB
 
-[dicedicegoose](dicedicegoose)
+[dicedicegoose](web/dicedicegoose)
 
-[funnylogin](funnylogin)
+[funnylogin](web/funnylogin)
