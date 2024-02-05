@@ -43,7 +43,9 @@ the function take a parameter called `history` which is an array of the position
     }
 ```
 so what we need to do is win the game with the score 9.
-let's make our history lol
+
+*LET'S MAKE OUR HISTORY LMAO*
+
 first we set history to an array that solve the game and has a length of 9. the only solution is this array.
 
  `history = [[[0,1],[9,9]]
