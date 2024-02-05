@@ -34,7 +34,7 @@ the function take a parameter called `history` which is an array of the position
 
 ![Alt text](Capture.PNG)
 
-`win` function test if `score === 9` and if its true print the flag witch combine include the the encoded `history`. and it's only triggers when the dice and the black square has the same y and x.
+`win` function test if `score === 9` and if its true print the flag + the the encoded `history`. and it's only triggers when the dice and the black square has the same y and x.
 ```javascript
     if (player[0] === goose[0] && player[1] === goose[1]) {
       win(history);
